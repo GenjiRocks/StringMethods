@@ -11,5 +11,5 @@ employee={
     exp:3
     
 }
-
+console.log(typeof(employee));
 console.log(employee['desig']);
