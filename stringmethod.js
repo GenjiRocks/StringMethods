@@ -52,3 +52,4 @@ console.log(str1);
 str = 'hello world'
 str1 = str.replace(' ','')
 console.log(str1);
+
