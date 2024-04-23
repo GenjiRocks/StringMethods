@@ -14,3 +14,10 @@ for(i of array){
 }
 
 console.log(obj);
+
+// array method
+
+wc = {}
+
+array.forEach(item=>item in wc?wc[item]+=1 : wc[item]=1)
+console.log(wc);
